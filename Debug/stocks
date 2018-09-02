@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stocks>
+  <remindMode>0</remindMode>
+  <stock>
+    <code>sh601838</code>
+    <name>成都银行</name>
+  </stock>
+  <stock>
+    <code>sz000156</code>
+    <name>华数传媒</name>
+  </stock>
+</stocks>
